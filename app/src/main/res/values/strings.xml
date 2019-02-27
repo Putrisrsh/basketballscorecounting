@@ -1,0 +1,12 @@
+<resources>
+    <string name="CLICKME">Thor Tech Kotlin</string>
+    <string name="HelloKotlin">Hahahehe</string>
+    <string name="app_name">ThorTechKotlin</string>
+    <string name="message">Message</string>
+    <string name="basketball_league">basketball league</string>
+    <string name="today_match">Today Match</string>
+    <string name="team_b">Team B</string>
+    <string name="team_a">Team A</string>
+    <string name="previous_match">Previous Match</string>
+    <string name="match_begin">Match Begin</string>
+</resources>
